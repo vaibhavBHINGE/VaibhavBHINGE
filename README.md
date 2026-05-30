@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **vaibhavBHINGE/VaibhavBHINGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey, I'm **Vaibhav Bhinge** 👋
+## Hi there, I'm **Vaibhav Bhinge** 👋
 
 MCA Graduate from Pune, India — transitioning from Java backend development into Generative AI and Agentic AI engineering.
 
 I love building things where LLMs don't just talk — they think, plan, and act.
-Currently deep in the LangChain + LangGraph rabbit hole, building RAG pipelines and AI agents from scratch.
+Currently deep in the LangChain + LangGraph, building RAG pipelines and AI agents from scratch.
 
 ---
 
-.
-
-🧠 What I'm Working With
+## 🧠 What I'm Working With
 AI / GenAI Stack
 Python LangChain LangGraph Groq RAG Pipelines HuggingFace FastAPI
 Backend Foundation
@@ -34,14 +32,15 @@ Java Spring Boot REST APIs MySQL
 
 ---
 
-🚀 Projects
+## 🚀 Projects
 
 🛒 E-Commerce REST API — Full backend for an e-commerce platform with product, order, and user management. Built with Java, Spring Boot, MySQL, and Hibernate.
 
 More coming soon — RAG pipeline and a LangGraph agent are in progress.
 
 ---
-📬 Let's Connect
+## 📬 Let's Connect
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Bhinge-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/bhinge-vaibhav)
 [![X](https://img.shields.io/badge/X-@vaibhavbhinge-000000?style=flat&logo=x)](https://x.com/vsbhinge)
 [![Medium](https://img.shields.io/badge/Medium-@vaibhavbhinge-000000?style=flat&logo=medium)](https://medium.com/@vaibhavBhinge)
