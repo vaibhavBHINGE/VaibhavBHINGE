@@ -40,10 +40,13 @@ More coming soon — RAG pipeline and a LangGraph agent are in progress.
 
 ---
 ## 📬 Let's Connect
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Bhinge-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/bhinge-vaibhav)
-[![X](https://img.shields.io/badge/X-@vaibhavbhinge-000000?style=flat&logo=x)](https://x.com/vsbhinge)
-[![Medium](https://img.shields.io/badge/Medium-@vaibhavbhinge-000000?style=flat&logo=medium)](https://medium.com/@vaibhavBhinge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav_Bhinge-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhinge-vaibhav)
+
+[![X](https://img.shields.io/badge/X-@vsbhinge-000000?style=flat&logo=x)](https://x.com/vsbhinge)
+
+[![Medium](https://img.shields.io/badge/Medium-@vaibhavBhinge-000000?style=flat&logo=medium)](https://medium.com/@vaibhavBhinge)
+
 ---
 
 💼 Open to GenAI / Agentic AI / Python Developer roles — Immediate joiner, open to relocation.
