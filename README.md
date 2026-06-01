@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there, I'm **Vaibhav Bhinge** 👋
+## Hi there, I'm **Vaibhav Bhinge**(Pune, India) 👋
 
-Pune, India — transitioning from Java backend development into Generative AI and Agentic AI engineering.
+Transitioning from Java backend development into Generative AI and Agentic AI engineering.
 
 I love building things where LLMs don't just talk — they think, plan, and act.
 Currently deep in the LangChain + LangGraph, building RAG pipelines and AI agents from scratch.
