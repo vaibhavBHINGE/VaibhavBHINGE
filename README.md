@@ -24,10 +24,10 @@ Currently deep in the LangChain + LangGraph, building RAG pipelines and AI agent
 ---
 
 ## 🧠 What I'm Working With
-AI / GenAI Stack
-Python LangChain LangGraph Groq RAG Pipelines HuggingFace FastAPI
-Backend Foundation
-Java Spring Boot REST APIs MySQL
+AI / GenAI Stack-
+Python- LangChain/ LangGraph- Groq -RAG Pipelines- HuggingFace- FastAPI-
+
+Java- Spring Boot- REST APIs- MySQL
 
 
 ---
