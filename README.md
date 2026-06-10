@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm **Vaibhav Bhinge**(Pune, India) 👋
 
-Transitioning from Java backend development into Generative AI and Agentic AI engineering.
+Java backend development and Generative AI .
 
 I love building things where LLMs don't just talk — they think, plan, and act.
 Currently deep in the LangChain + LangGraph, building RAG pipelines and AI agents from scratch.
