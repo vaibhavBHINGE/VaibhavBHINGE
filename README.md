@@ -36,7 +36,7 @@ Java- Spring Boot- REST APIs- MySQL
 
 🛒 E-Commerce REST API — Full backend for an e-commerce platform with product, order, and user management. Built with Java, Spring Boot, MySQL, and Hibernate.
 
-More coming soon — RAG pipeline and a LangGraph agent are in progress.
+🤖 SmartSupport AI Agent — A fully autonomous customer support agent featuring hybrid-RAG document lookups, dynamic file sandboxing, and intelligent ticket escalation. Successfully submitted for the Hugging Face #BuildSmallHackathon. Built with LangChain, FastAPI, Gradio, ChromaDB, and Qwen LLMs.
 
 ---
 ## 📬 Let's Connect
