@@ -90,22 +90,6 @@ https://github.com/vaibhavBHINGE/SmartSupport-AI-Agent
 
 ---
 
-### 🧠 AI Agents Learning
-
-A collection of hands-on experiments, implementations, and learning projects covering:
-
-* LangChain
-* LangGraph
-* Agent Workflows
-* Tool Calling
-* RAG Systems
-* AI Agent Architectures
-
-🔗 Repository:
-https://github.com/vaibhavBHINGE/AI-Agents-Learning
-
----
-
 ### 🛒 E-Commerce REST API
 
 Backend system for an e-commerce platform featuring:
@@ -125,35 +109,6 @@ Built with:
 
 🔗 Repository:
 https://github.com/vaibhavBHINGE/Ecommerce
-
----
-
-## 📈 2026 Goals
-
-* Build 5+ Production-Ready AI Agent Projects
-* Contribute to Open Source
-* Master LangGraph
-* Learn Advanced FastAPI
-* Gain Professional Experience in AI Engineering
-* Land an AI Agent Developer Role
-
----
-
-## 📝 Writing & Learning
-
-I regularly share my learning journey and technical content on:
-
-* Medium
-* LinkedIn
-* GitHub
-
-Topics include:
-
-* AI Agents
-* RAG Systems
-* FastAPI
-* Python Development
-* Backend Engineering
 
 ---
 
