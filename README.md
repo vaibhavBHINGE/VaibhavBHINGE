@@ -1,137 +1,47 @@
-# Hi there, I'm **Vaibhav Bhinge** 👋
+# Hi, I'm Vaibhav Bhinge 👋
 
-### AI Agent Developer | Python Developer | Java Backend Developer
-
-Building AI Agents, RAG systems, and backend applications using Python, FastAPI, LangChain, LangGraph.
-
-📍 Pune, India
+**AI Agent Developer · Python & FastAPI · LangChain · LangGraph · RAG**
+📍 Pune, India · Immediate Joiner · Open to Relocation
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a MCA graduate and Java Spring Backend Developer Intern with a strong interest in Generative AI and Agentic AI systems.
+MCA graduate with 8 months of Java/Spring Boot backend experience, now fully focused on
+**Generative AI and Agentic AI development**.
 
-I enjoy building intelligent applications where LLMs can reason, retrieve information, use tools, and automate workflows.
+I build AI agents, RAG pipelines, and FastAPI backends — and write about GenAI on
+[Medium](https://medium.com/@vaibhavBhinge).
 
-Currently focused on:
-
-* AI Agents
-* Retrieval-Augmented Generation (RAG)
-* LangGraph Workflows
-* FastAPI Development
-* Agentic AI Systems
-* Production-ready AI Applications
+Currently exploring: Multi-agent architectures · LangGraph · MCP · AI deployment
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-### AI / Generative AI
-
-* Python
-* LangChain
-* LangGraph
-* FastAPI
-* RAG Pipelines
-* ChromaDB
-* Hugging Face
-* Groq
-* Vector Databases
-* Prompt Engineering
-
-### Backend Development
-
-* Java
-* Spring Boot
-* REST APIs
-* Hibernate
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Linux
-* Docker (Learning)
+**AI / GenAI** — Python · LangChain · LangGraph · FastAPI · RAG · ChromaDB · HuggingFace · Groq · Prompt Engineering  
+**Backend** — Java · Spring Boot · REST APIs · Hibernate · MySQL  
+**Tools** — Git · GitHub · Postman · VS Code · Linux · Docker *(Learning)*
 
 ---
 
-## 🎯 Current Focus
-
-* Building Production-Ready AI Agents
-* Learning Multi-Agent Architectures
-* Exploring MCP (Model Context Protocol)
-* Improving System Design Knowledge
-* Deploying AI Applications
-
----
-
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🤖 SmartSupport AI Agent
+Autonomous customer support agent with hybrid RAG retrieval, ticket escalation, ChromaDB vector search,
+and a FastAPI + Gradio interface.  
+🏆 Submitted to Hugging Face **#BuildSmall Hackathon**  
+[GitHub →](https://github.com/vaibhavBHINGE/SmartSupport-AI-Agent)
 
-A fully autonomous customer support AI agent featuring:
-
-* Hybrid RAG document retrieval
-* Dynamic file sandboxing
-* Intelligent ticket escalation
-* FastAPI backend
-* Gradio user interface
-* ChromaDB vector search
-* Qwen-powered reasoning
-
-🏆 Submitted to the Hugging Face #BuildSmall Hackathon
-
-🔗 Repository:
-https://github.com/vaibhavBHINGE/SmartSupport-AI-Agent
+### 📦 Product Inventory Management API
+Production-style REST API built with **FastAPI, SQLAlchemy, and Pydantic** — full CRUD, database
+integration, and schema validation.  
+[GitHub →](your-repo-link-here)
 
 ---
 
-### 🛒 E-Commerce REST API
+## 📬 Connect
 
-Backend system for an e-commerce platform featuring:
+[LinkedIn](https://www.linkedin.com/in/bhinge-vaibhav) · [X](https://x.com/vsbhinge) · [Medium](https://medium.com/@vaibhavBhinge)
 
-* User Management
-* Product Management
-* Order Processing
-* REST APIs
-* Database Integration
-
-Built with:
-
-* Java
-* Spring Boot
-* Hibernate
-* MySQL
-
-🔗 Repository:
-https://github.com/vaibhavBHINGE/Ecommerce
-
----
-
-## 📬 Connect With Me
-
-💼 LinkedIn
-https://www.linkedin.com/in/bhinge-vaibhav
-
-🐦 X (Twitter)
-https://x.com/vsbhinge
-
-✍️ Medium
-https://medium.com/@vaibhavBhinge
-
-📧 Open to:
-
-* AI Agent Developer Roles
-* Generative AI Opportunities
-* Python Developer Positions
-* Backend Development Roles
-
-Immediate Joiner | Open to Relocation
-
----
-
-⭐ If you like my projects, feel free to explore my repositories and connect with me.
+Open to: **AI Agent Developer · GenAI · Python Backend** roles
