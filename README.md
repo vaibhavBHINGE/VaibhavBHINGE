@@ -38,7 +38,7 @@ Production-style REST API built with **FastAPI, SQLAlchemy, and Pydantic** — f
 integration, and schema validation.  
 [GitHub →](your-repo-link-here)
 
-### 📦 Product Inventory Management API
+### 📦 Employee management
 Production-style REST API built with **FastAPI, SQLAlchemy, and Pydantic** — full CRUD, database
 integration, and schema validation.  
 [GitHub →](your-repo-link-here)
